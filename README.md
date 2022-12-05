@@ -1,2 +1,2 @@
 # ft_printf
-https://progress-bar.dev/<100%>?title=<Score : >
+https://progress-bar.dev/125%?title=Score :
